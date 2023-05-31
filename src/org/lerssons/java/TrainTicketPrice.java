@@ -1,5 +1,6 @@
 package org.lerssons.java;
 
+// Import
 import java.util.Scanner;
 
 public class TrainTicketPrice {

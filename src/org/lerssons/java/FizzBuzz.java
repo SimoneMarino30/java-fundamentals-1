@@ -1,7 +1,9 @@
 package org.lerssons.java;
 
 // Import
-// import java.util.Scanner;
+
+
+//import java.util.Scanner;
 
 public class FizzBuzz {
     public static void main(String[] args) {
@@ -9,6 +11,9 @@ public class FizzBuzz {
         // Variables
         int Fizz = 3;
         int Buzz = 5;
+
+        //Scanner
+        //Scanner askNumbers = new Scanner(System.in);
 
         for (int i = 1; i <= 100; i++) {
             if (i % Fizz == 0 && i % Buzz == 0) {
